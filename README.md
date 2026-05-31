@@ -1,5 +1,13 @@
 # Financial KPI Monitoring & Investment Insights Dashboard
 
+## Download
+
+📥 [Download the Tableau Workbook (.twbx)](./Financial_KPI_Dashboard.twbx)
+
+## Screenshots
+
+![Financial KPI Dashboard](./screenshots/dashboard.png)
+
 ## Overview
 This Tableau project monitors core financial KPIs (Revenue, Profit Margin, ROI, Cash Flow) and investment performance across regions, asset types, and categories to support strategic decision-making for finance and leadership teams.
 
@@ -31,6 +39,3 @@ This Tableau project monitors core financial KPIs (Revenue, Profit Margin, ROI, 
 
 ## Insights Enabled
 Identify top-performing investments, regional profitability patterns, budget vs actual gaps, and risk-adjusted ROI trends for portfolio optimization.
-
-## LinkedIn Post (2 sentences)
-Built a Financial KPI Monitoring & Investment Insights Dashboard in Tableau to track revenue, profit margin, ROI, cash flow, and portfolio value across regions and asset types. The dashboard blends KPI cards, trend analysis, and ROI vs investment scatter to help finance leaders spot top-performing investments and budget variances quickly.
