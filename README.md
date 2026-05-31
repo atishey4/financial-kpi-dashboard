@@ -6,7 +6,7 @@
 
 ## Screenshots
 
-![Financial KPI Dashboard](./screenshots/dashboard.png)
+![Financial KPI Dashboard](./screenshots/Screenshot%202026-05-31%20134805.png)
 
 ## Overview
 This Tableau project monitors core financial KPIs (Revenue, Profit Margin, ROI, Cash Flow) and investment performance across regions, asset types, and categories to support strategic decision-making for finance and leadership teams.
